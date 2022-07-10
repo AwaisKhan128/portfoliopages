@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17edfbf2.css",
+    "main.js": "/static/js/main.9cfc0d71.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tbcopters.png": "/static/media/tbcopters.2cd4569e4cc98dea2560.png",
+    "static/media/brrring.png": "/static/media/brrring.d16523b6f7cd8135c15e.png",
+    "static/media/talkinghead.jpg": "/static/media/talkinghead.fa40a6aaae334a5f9219.jpg",
+    "static/media/AwaisResumeSE.pdf": "/static/media/AwaisResumeSE.c7f5e984d6cd4b5df7de.pdf",
+    "static/media/muneerapp.png": "/static/media/muneerapp.7df142fbc19d5895155d.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/soundwave.jpeg": "/static/media/soundwave.2a4f14bc404c95ea48c6.jpeg",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/taraki.png": "/static/media/taraki.9b9b07ca5cec432bd2d0.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.17edfbf2.css.map": "/static/css/main.17edfbf2.css.map",
+    "main.9cfc0d71.js.map": "/static/js/main.9cfc0d71.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17edfbf2.css",
+    "static/js/main.9cfc0d71.js"
+  ]
+}
